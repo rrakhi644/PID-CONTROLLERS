@@ -9,17 +9,17 @@
 ---
 
 ## Table of Contents  
-1. [Introduction](#introduction)  
-2. [Cruise Control](#cruise-control)  
-3. [Motor Speed](#motor-speed)  
-4. [Motor Position](#motor-position)  
-5. [Suspension](#suspension)  
-6. [Inverted Pendulum](#inverted-pendulum)  
-7. [Aircraft Pitch](#aircraft-pitch)  
-8. [Ball & Beam](#ball-beam)  
-9. [Conclusion](#conclusion)  
-10. [Recommendations](#recommendations)  
-11. [References](#references)  
+1. [Introduction](#1-introduction)  
+2. [Cruise Control](#2-cruise-control)  
+3. [Motor Speed](#3-motor-speed)  
+4. [Motor Position](#4-motor-position)  
+5. [Suspension](#5-suspension)  
+6. [Inverted Pendulum](#6-inverted-pendulum)  
+7. [Aircraft Pitch](#7-aircraft-pitch)  
+8. [Ball & Beam](#8-ball--beam)  
+9. [Conclusion](#9-conclusion)  
+10. [Recommendations](#10-recommendations)  
+
 
 ---
 
@@ -96,7 +96,7 @@ PID control successfully managed motor speed with high accuracy and minimal erro
 
 ### 4. Motor Position  
 ![image](https://github.com/user-attachments/assets/d8ba86a8-6928-4d0e-bba4-9949de0e00e4)
- 
+
 
 #### Overview  
 Motor position control aims at accurate positioning of the motor shaft.  
@@ -238,4 +238,5 @@ Highlights PID control’s role in achieving desired system performance, offerin
 - **Alternative Strategies**: Investigate other control strategies.  
 
 ---
+
 
